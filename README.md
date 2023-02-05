@@ -74,4 +74,5 @@ Esta seção foi movida para cá: [https://facebook.github.io/create-react-app/d
 https://tailwindcss.com/docs/installation
 
 
-### https://fontawesome.com/v6/docs/web/ ###
+###  Fontwesome  ###
+https://fontawesome.com/v6/docs/web/ 
