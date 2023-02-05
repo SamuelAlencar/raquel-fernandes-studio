@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button:disabled, button:hover:disabled {
+    background-color: rgba(59, 130, 246, 0.5);
+}
+#root {
+    height: 100vh;
+    background-color: rgba(194, 204, 221, 0.5);
+}
