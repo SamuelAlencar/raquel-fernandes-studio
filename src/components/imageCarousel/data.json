@@ -1,0 +1,30 @@
+{
+    "resources": [
+      {
+        "title": "Find me on Twitter",
+        "link": "#",
+        "imageUrl": "https://images.pexels.com/photos/3148935/pexels-photo-3148935.jpeg?auto=compress&cs=tinysrgb&w=1320",
+        "callToAction" : "SAIBA MAIS..."
+      },
+      {
+        "title": "Welcome to Ark Labs",
+        "link": "#",
+        "imageUrl": "https://images.pexels.com/photos/2113855/pexels-photo-2113855.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "callToAction" : "SAIBA MAIS..."
+
+      },
+      {
+        "title": "Some sort of third title Some sort of third title Some sort of third title Some ",
+        "link": "#",
+        "imageUrl": "https://images.pexels.com/photos/4156336/pexels-photo-4156336.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "callToAction" : "SAIBA MAIS..."
+      },
+      {
+        "title": "Faça sua maquiagem express",
+        "link": "#",
+        "imageUrl": "https://images.pexels.com/photos/3800060/pexels-photo-3800060.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "callToAction" : "SAIBA MAIS..."
+      }
+    ]
+  }
+  

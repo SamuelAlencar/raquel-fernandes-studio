@@ -1,4 +1,7 @@
 
+# Instalação do projeto em ambiente local #
+`npm install`
+
 # Introdução ao Create React App
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
@@ -76,3 +79,14 @@ https://tailwindcss.com/docs/installation
 
 ###  Fontwesome  ###
 https://fontawesome.com/v6/docs/web/ 
+
+link ícones
+https://fontawesome.com/icons
+
+### React Loader Spinner ###
+https://mhnpd.github.io/react-loader-spinner/docs/intro/
+
+### Slick-slider ###
+https://github.com/akiran/react-slick/blob/master/README.md
+
+
